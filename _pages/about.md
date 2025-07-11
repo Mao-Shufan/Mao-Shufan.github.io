@@ -1,3 +1,5 @@
+permalink: /
+
 This is Dr. Shufan Mao's academic page.
 
 A data-driven personal website
