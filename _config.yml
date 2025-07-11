@@ -22,7 +22,7 @@ repository               : "Mao-Shufan/Mao-Shufan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_use.png"
+  avatar           : "github_use.png"
   name             : "Shufan Mao"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
