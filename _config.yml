@@ -13,7 +13,7 @@ title                    : "Academic Page"
 title_separator          : "-"
 name                     : &name "Shufan Mao"
 description              : &description "personal description"
-url                      : https://https://mao-shufan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://mao-shufan.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Mao-Shufan/Mao-Shufan.github.io"
 
